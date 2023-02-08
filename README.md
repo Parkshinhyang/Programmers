@@ -1,1 +1,1 @@
-# Programmers 코딩테스트 연습 모음
+# Programmers PCCP 대비 연습
